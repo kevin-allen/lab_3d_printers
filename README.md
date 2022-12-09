@@ -17,11 +17,17 @@ Every user should clean the bench top with 70% alcohol after use.  There should 
 
 ## SL1 printers
 
+### Loading the printer pool
+
+### Post-processing of printed parts
+
 ### SL1 cleaning procedure
 
 1. Clean the printer pool.
 
+
 ## MK2 or MK3 printers
 
+### Changing the filament
 
 ### MK3 cleaning procedure
