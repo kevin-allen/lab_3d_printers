@@ -4,10 +4,11 @@ These are the instructions that you should follow when using the 3D printers. Th
 
 ## Register 
 
-We keep a record of who is using the printers. 
+All users of the printer should be part of the 3d_printing channel on Slack. Ask Kevin if you are not part of the channel.
 
+We keep a record of each prints in a Google document. Write down your name, date, printer and material used in the [google document](https://docs.google.com/spreadsheets/d/1FGzdYLM6jrgUNTdj_JiCUnRUc9556kP5pb-WygoUFwE/edit?usp=sharing). There is a status colum to leave notes about the status of the printers (before or after use).
 
-Write down your name, date, printer and material used in the [google document](https://docs.google.com/spreadsheets/d/1FGzdYLM6jrgUNTdj_JiCUnRUc9556kP5pb-WygoUFwE/edit?usp=sharing).
+If you notice any damage to the printers, please report it in the Slack 3d_printing group.
 
 ## Keep the space clean and functional
 
